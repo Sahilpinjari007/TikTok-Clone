@@ -1,0 +1,54 @@
+{
+    "data": {
+        "code": 0,
+        "msg": "success",
+        "processed_time": 0.1549,
+        "data": {
+            "aweme_id": "v12044gd0000cl87957og65q887tsdcg",
+            "id": "7300463335659621675",
+            "region": "US",
+            "title": "If you dont like me, that’s fine, but watch your mouth! #fyp #viral #lipsync #lipsyncing #foryoupage #lipsyncingchallenge #watchyourmouth ",
+            "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/515f538301d14ef99e8f3007e0c49297_1699771611?lk3s=d05b14bd&x-expires=1707562800&x-signature=3uFKkcHi3GXJKbLo5ezJpDU%2Fvb8%3D&s=AWEME_DETAIL&se=false&sh=&sc=dynamic_cover&l=20240209110053E1B054C40FBEE2AEEBF4",
+            "origin_cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/45602a8c98ef4d2db8fc23c1fee1c79a_1699771611~tplv-tiktokx-360p.jpeg?lk3s=d05b14bd&x-expires=1707562800&x-signature=xsvr%2FApvYvfmr%2BWORlZRkVSo51E%3D&s=AWEME_DETAIL&se=false&sh=&sc=feed_cover&l=20240209110053E1B054C40FBEE2AEEBF4",
+            "duration": 6,
+            "play": "https://v16m-default.akamaized.net/f3e0e2e2fa4f91639f36ec54d364bc34/65c65a4d/video/tos/maliva/tos-maliva-ve-0068c799-us/oMIQEDHHjdeoAyGKCLhBeNUDZkpIpIZAkeONCz/?a=0&ch=0&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=538&bt=269&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&cs=0&ds=6&ft=XE5bCqT0m7jPD12but0R3wUi.UyKMeF~O5&mime_type=video_mp4&qs=0&rc=NTlnaGVpODc8OTQ0OGdlZ0Bpamd3O3Q5cjg6bzMzZzczNEA0LmJjYzQ0Ni4xLTAvMC4yYSNgcDQ1MmQ0NjVgLS1kMS9zcw%3D%3D&l=20240209110053E1B054C40FBEE2AEEBF4&btag=e00088000",
+            "wmplay": "https://v16m-default.akamaized.net/16081162f4b5297a52b6a0df45b2efd5/65c65a4d/video/tos/maliva/tos-maliva-ve-0068c799-us/oIIQEEHwjdeoAHGKCLhGeNrDZkpIpIrAkeOOCz/?a=0&ch=0&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=744&bt=372&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&cs=0&ds=3&ft=XE5bCqT0m7jPD12but0R3wUi.UyKMeF~O5&mime_type=video_mp4&qs=0&rc=ZjQ8ZTo2OWk6ODZkMzdoOUBpamd3O3Q5cjg6bzMzZzczNEAuYGIxMDJhXl4xX2AyXmIzYSNgcDQ1MmQ0NjVgLS1kMS9zcw%3D%3D&l=20240209110053E1B054C40FBEE2AEEBF4&btag=e00088000",
+            "size": 222328,
+            "wm_size": 306952,
+            "music": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7078402875629521670.mp3",
+            "music_info": {
+                "id": "7078402862799915781",
+                "title": "Watch your mouth",
+                "play": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7078402875629521670.mp3",
+                "cover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/42eebb1607819bad015d2c633918bbca~c5_1080x1080.jpeg?lk3s=45126217&x-expires=1707562800&x-signature=ZKFmNzAsOsd%2BFPkw%2BhkRIvXx7s0%3D",
+                "author": "Female Rap",
+                "original": true,
+                "duration": 10,
+                "album": ""
+            },
+            "play_count": 7645554,
+            "digg_count": 469087,
+            "comment_count": 578,
+            "share_count": 1158,
+            "download_count": 7761,
+            "collect_count": 82962,
+            "create_time": 1699771610,
+            "anchors": null,
+            "anchors_extras": "",
+            "is_ad": false,
+            "commerce_info": {
+                "adv_promotable": false,
+                "auction_ad_invited": false,
+                "branded_content_type": 0,
+                "with_comment_filter_words": false
+            },
+            "commercial_video_info": "",
+            "author": {
+                "id": "7249481995616388139",
+                "unique_id": "songs_to_lipsync3",
+                "nickname": "k💋",
+                "avatar": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98c733f97cc65fdfdbca013c94fd18ec~c5_300x300.jpeg?lk3s=45126217&x-expires=1707562800&x-signature=aHw6ukxMcM3Jc18RwqkYZI59QTA%3D"
+            }
+        }
+    }
+}
